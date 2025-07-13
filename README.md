@@ -1,6 +1,6 @@
 # Chocolate Bar Ratings Analysis Dashboard
 
-![Chocolate Home Page Banner](INSERT_SCREENSHOT_PAGE1_HERE)
+![Chocolate Home Page Banner](https://github.com/dougieboat/Chocolate-Bar-Ratings-Report/blob/319db61e17f5a0365ff03afc92affdecd573a0e2/images/home.png)
 
 ## 🚀 Introduction
 
@@ -89,10 +89,10 @@ The model follows a **star schema architecture** with a central fact table and t
 
 **Key Relationships:**
 
-- ChocolateRating[Rating] → RatingDim[Rating]
-- ChocolateRating[Review_Year] → DateTable[Review_Year]
+- ChocolateRating`[Rating]` → RatingDim`[Rating]`
+- ChocolateRating`[Review_Year]` → DateTable`[Review_Year]`
 
-![Power BI Model View](INSERT_SCREENSHOT_MODEL_VIEW_HERE)
+![Power BI Model View](https://github.com/dougieboat/Chocolate-Bar-Ratings-Report/blob/319db61e17f5a0365ff03afc92affdecd573a0e2/images/model-view.png)
 
 ---
 
@@ -111,7 +111,7 @@ The model follows a **star schema architecture** with a central fact table and t
 - **Most common rating label:** Satisfactory (773 bars)
 - **Elite chocolates are extremely rare:** Only 2 bars
 
-![Country vs Average Rating and Rating Trend](INSERT_CHART_PAGE1_HERE)
+![Insert Page 1](https://github.com/dougieboat/Chocolate-Bar-Ratings-Report/blob/319db61e17f5a0365ff03afc92affdecd573a0e2/images/page-1.png)
 
 ---
 
@@ -133,7 +133,7 @@ The model follows a **star schema architecture** with a central fact table and t
 - **Criollo and Trinitario beans** from Ecuador, Venezuela, Peru have highest ratings (some above 4.0)
 - **Forastero beans** score lower on average
 
-![Cocoa vs Rating, Bean Type vs Rating, Top Companies](INSERT_CHART_PAGE2_HERE)
+![Insert Page 2](https://github.com/dougieboat/Chocolate-Bar-Ratings-Report/blob/319db61e17f5a0365ff03afc92affdecd573a0e2/images/page-2.png)
 
 ---
 
@@ -165,7 +165,7 @@ The model follows a **star schema architecture** with a central fact table and t
 - Sourced mainly from **Venezuela, Peru, and Ecuador**
 - Top-performing companies: Soma, Bonnat, Valrhona, Amedei
 
-![Decomposition Tree and Bar Chart Visuals](INSERT_CHART_PAGE3_HERE)
+![Insert Page 3](https://github.com/dougieboat/Chocolate-Bar-Ratings-Report/blob/319db61e17f5a0365ff03afc92affdecd573a0e2/images/page-3.png)
 
 ---
 
@@ -204,8 +204,8 @@ The model follows a **star schema architecture** with a central fact table and t
 
 ---
 
-> _Ready to explore the the three-page report? Download the [Power BI file]() and visuals for deeper insights!_
+> _Ready to explore the the three-page report? Download the [Power BI file](https://github.com/dougieboat/Chocolate-Bar-Ratings-Report/blob/319db61e17f5a0365ff03afc92affdecd573a0e2/Individual_Project_-_Chocolate_Bar_Ratings.pbix) and visuals for deeper insights!_
 
 ---
 
-*© 2025 Douglas Boateng | [GitHub](https://github.com/dougieboat)*
+*`©` 2025 Douglas Boateng | [GitHub](https://github.com/dougieboat)*
